@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World 2</string>
+    <string name="mainString">0</string>
+    <string name="random_button_text">Random</string>
+    <string name="mainToast">Toast</string>
+    <string name="main_countUpButton">Count Up</string>
+    <string name="toastMessage">Hello Toast Message!</string>
+</resources>
